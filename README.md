@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction 🏦
+# Bank Customer Churn Prediction 
 
 ## Overview
 This project analyzes customer churn in a bank using Python. The goal is to identify key factors that influence customer churn and build a predictive model.
